@@ -1,0 +1,14 @@
+{
+    "name": "feliperamaral/vardump",
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Felipe Amaral",
+            "email": "feliperamaral80@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "files": ["src/vardump.php"]
+    }
+}
